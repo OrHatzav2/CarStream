@@ -1,0 +1,11 @@
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\bin\Debug\net8.0\CarImport.Contracts.deps.json
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\bin\Debug\net8.0\CarImport.Contracts.dll
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\bin\Debug\net8.0\CarImport.Contracts.pdb
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\obj\Debug\net8.0\CarImport.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\obj\Debug\net8.0\CarImport.Contracts.AssemblyInfoInputs.cache
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\obj\Debug\net8.0\CarImport.Contracts.AssemblyInfo.cs
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\obj\Debug\net8.0\CarImport.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\obj\Debug\net8.0\CarImport.Contracts.dll
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\obj\Debug\net8.0\refint\CarImport.Contracts.dll
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\obj\Debug\net8.0\CarImport.Contracts.pdb
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\obj\Debug\net8.0\ref\CarImport.Contracts.dll

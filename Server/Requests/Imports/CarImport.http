@@ -1,0 +1,7 @@
+@host = http://localhost:5176
+@value = אאודי
+@key = שם_תוצרת
+//GET {{host}}/analysis/{{key}}={{value}}
+//GET {{host}}/search_fields
+GET {{host}}/all_data?שם_תוצרת=סיטרואן&ממחיר=200000&עד_מחיר=300000
+###
