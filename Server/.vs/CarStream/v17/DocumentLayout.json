@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\or\\OneDrive\\Desktop\\MongoDB\\CarImport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC47C742-972D-432F-AAEC-1D1FF8DC0F2E}|CarImport\\CarImport.csproj|c:\\users\\or\\onedrive\\desktop\\mongodb\\carimport\\carimport\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC47C742-972D-432F-AAEC-1D1FF8DC0F2E}|CarImport\\CarImport.csproj|solutionrelative:carimport\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC47C742-972D-432F-AAEC-1D1FF8DC0F2E}|CarImport\\CarImport.csproj|c:\\users\\or\\onedrive\\desktop\\mongodb\\carimport\\carimport\\services\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC47C742-972D-432F-AAEC-1D1FF8DC0F2E}|CarImport\\CarImport.csproj|solutionrelative:carimport\\services\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC47C742-972D-432F-AAEC-1D1FF8DC0F2E}|CarImport\\CarStream.csproj|c:\\users\\or\\onedrive\\desktop\\mongodb\\carimport\\carimport\\services\\enumerableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC47C742-972D-432F-AAEC-1D1FF8DC0F2E}|CarImport\\CarStream.csproj|solutionrelative:carimport\\services\\enumerableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC47C742-972D-432F-AAEC-1D1FF8DC0F2E}|CarImport\\CarStream.csproj|c:\\users\\or\\onedrive\\desktop\\mongodb\\carimport\\carimport\\models\\importsrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC47C742-972D-432F-AAEC-1D1FF8DC0F2E}|CarImport\\CarStream.csproj|solutionrelative:carimport\\models\\importsrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC47C742-972D-432F-AAEC-1D1FF8DC0F2E}|CarImport\\CarStream.csproj|c:\\users\\or\\onedrive\\desktop\\mongodb\\carimport\\carimport\\models\\mongodbserttings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC47C742-972D-432F-AAEC-1D1FF8DC0F2E}|CarImport\\CarStream.csproj|solutionrelative:carimport\\models\\mongodbserttings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80829EB7-FDF3-4DF1-A6E7-3C372402E2D0}|UpdateDBService\\UpdateDBService.csproj|c:\\users\\or\\onedrive\\desktop\\mongodb\\carimport\\updatedbservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80829EB7-FDF3-4DF1-A6E7-3C372402E2D0}|UpdateDBService\\UpdateDBService.csproj|solutionrelative:updatedbservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80829EB7-FDF3-4DF1-A6E7-3C372402E2D0}|UpdateDBService\\UpdateDBService.csproj|c:\\users\\or\\onedrive\\desktop\\mongodb\\carimport\\updatedbservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80829EB7-FDF3-4DF1-A6E7-3C372402E2D0}|UpdateDBService\\UpdateDBService.csproj|solutionrelative:updatedbservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC47C742-972D-432F-AAEC-1D1FF8DC0F2E}|CarImport\\CarImport.csproj|c:\\users\\or\\onedrive\\desktop\\mongodb\\carimport\\carimport\\controllers\\importscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC47C742-972D-432F-AAEC-1D1FF8DC0F2E}|CarImport\\CarImport.csproj|solutionrelative:carimport\\controllers\\importscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnumerableExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\or\\OneDrive\\Desktop\\MongoDB\\CarImport\\CarImport\\Services\\EnumerableExtensions.cs",
+              "RelativeDocumentMoniker": "CarImport\\Services\\EnumerableExtensions.cs",
+              "ToolTip": "C:\\Users\\or\\OneDrive\\Desktop\\MongoDB\\CarImport\\CarImport\\Services\\EnumerableExtensions.cs",
+              "RelativeToolTip": "CarImport\\Services\\EnumerableExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:43:18.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImportsRecord.cs",
+              "DocumentMoniker": "C:\\Users\\or\\OneDrive\\Desktop\\MongoDB\\CarImport\\CarImport\\Models\\ImportsRecord.cs",
+              "RelativeDocumentMoniker": "CarImport\\Models\\ImportsRecord.cs",
+              "ToolTip": "C:\\Users\\or\\OneDrive\\Desktop\\MongoDB\\CarImport\\CarImport\\Models\\ImportsRecord.cs",
+              "RelativeToolTip": "CarImport\\Models\\ImportsRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:43:12.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MongoDBSerttings.cs",
+              "DocumentMoniker": "C:\\Users\\or\\OneDrive\\Desktop\\MongoDB\\CarImport\\CarImport\\Models\\MongoDBSerttings.cs",
+              "RelativeDocumentMoniker": "CarImport\\Models\\MongoDBSerttings.cs",
+              "ToolTip": "C:\\Users\\or\\OneDrive\\Desktop\\MongoDB\\CarImport\\CarImport\\Models\\MongoDBSerttings.cs",
+              "RelativeToolTip": "CarImport\\Models\\MongoDBSerttings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:43:09.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\or\\OneDrive\\Desktop\\MongoDB\\CarImport\\UpdateDBService\\Program.cs",
+              "RelativeDocumentMoniker": "UpdateDBService\\Program.cs",
+              "ToolTip": "C:\\Users\\or\\OneDrive\\Desktop\\MongoDB\\CarImport\\UpdateDBService\\Program.cs",
+              "RelativeToolTip": "UpdateDBService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:33:59.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logic.cs",
+              "DocumentMoniker": "C:\\Users\\or\\OneDrive\\Desktop\\MongoDB\\CarImport\\CarImport\\Services\\Logic.cs",
+              "RelativeDocumentMoniker": "CarImport\\Services\\Logic.cs",
+              "ToolTip": "C:\\Users\\or\\OneDrive\\Desktop\\MongoDB\\CarImport\\CarImport\\Services\\Logic.cs",
+              "RelativeToolTip": "CarImport\\Services\\Logic.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwGQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:50:41.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MongoDBService.cs",
+              "DocumentMoniker": "C:\\Users\\or\\OneDrive\\Desktop\\MongoDB\\CarImport\\CarImport\\Services\\MongoDBService.cs",
+              "RelativeDocumentMoniker": "CarImport\\Services\\MongoDBService.cs",
+              "ToolTip": "C:\\Users\\or\\OneDrive\\Desktop\\MongoDB\\CarImport\\CarImport\\Services\\MongoDBService.cs",
+              "RelativeToolTip": "CarImport\\Services\\MongoDBService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:35:57.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\or\\OneDrive\\Desktop\\MongoDB\\CarImport\\UpdateDBService\\Worker.cs",
+              "RelativeDocumentMoniker": "UpdateDBService\\Worker.cs",
+              "ToolTip": "C:\\Users\\or\\OneDrive\\Desktop\\MongoDB\\CarImport\\UpdateDBService\\Worker.cs",
+              "RelativeToolTip": "UpdateDBService\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:25:48.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImportsController.cs",
+              "DocumentMoniker": "C:\\Users\\or\\OneDrive\\Desktop\\MongoDB\\CarImport\\CarImport\\Controllers\\ImportsController.cs",
+              "RelativeDocumentMoniker": "CarImport\\Controllers\\ImportsController.cs",
+              "ToolTip": "C:\\Users\\or\\OneDrive\\Desktop\\MongoDB\\CarImport\\CarImport\\Controllers\\ImportsController.cs",
+              "RelativeToolTip": "CarImport\\Controllers\\ImportsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgBAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:39:31.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

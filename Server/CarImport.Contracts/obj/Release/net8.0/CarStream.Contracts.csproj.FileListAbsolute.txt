@@ -1,0 +1,11 @@
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\bin\Release\net8.0\CarStream.Contracts.deps.json
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\bin\Release\net8.0\CarStream.Contracts.dll
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\bin\Release\net8.0\CarStream.Contracts.pdb
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\obj\Release\net8.0\CarStream.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\obj\Release\net8.0\CarStream.Contracts.AssemblyInfoInputs.cache
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\obj\Release\net8.0\CarStream.Contracts.AssemblyInfo.cs
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\obj\Release\net8.0\CarStream.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\obj\Release\net8.0\CarStream.Contracts.dll
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\obj\Release\net8.0\refint\CarStream.Contracts.dll
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\obj\Release\net8.0\CarStream.Contracts.pdb
+C:\Users\or\OneDrive\Desktop\MongoDB\CarImport\CarImport.Contracts\obj\Release\net8.0\ref\CarStream.Contracts.dll
